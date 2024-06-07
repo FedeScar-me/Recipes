@@ -1,10 +1,10 @@
 Inizializing directiory and file creationg in Git:
 1) cd "path"
-2)
-
+2) git add
 
 Steps to make changes on a text file:
 1) nano "file name" -> CTRL o + Enter + CTRL x
 2) git add "file name" = tells git to follow changes made on that file
 3) git commit -m "name of the changes" = gives a name to the change has been applied
-4) git status / cat "name file"
+4) git status / cat "name file" = see the content of a file
+NB: git log sometimes crashes
