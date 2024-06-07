@@ -1,1 +1,2 @@
 Steps to make changes on a text file:
+1) nano "name file" -> CTRL o + Enter + CTRL x
