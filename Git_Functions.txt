@@ -1,3 +1,8 @@
+Inizializing directiory and file creationg in Git:
+1) cd "path"
+2)
+
+
 Steps to make changes on a text file:
 1) nano "file name" -> CTRL o + Enter + CTRL x
 2) git add "file name" = tells git to follow changes made on that file
